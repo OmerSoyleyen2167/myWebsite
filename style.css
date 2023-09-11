@@ -104,8 +104,8 @@ a{
 }
 
 @media (max-width:500px){
-    .header-logo{
-        margin-top: 40px;
+    #header{
+        top:20px;
     }
     .header-wrapper{
         display: flex;
